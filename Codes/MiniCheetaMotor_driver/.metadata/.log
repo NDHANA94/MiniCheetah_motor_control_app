@@ -1,0 +1,113 @@
+!SESSION 2022-10-21 15:51:58.964 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-10-21 15:52:48.499
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-10-21 15:52:48.536
+!MESSAGE Log4j initialized with config file /home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-10-21 15:52:50.670
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:13.788
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/mpc/releases/1.9.3/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:17.998
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/juno, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:23.428
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/juno/201303010900, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:28.340
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/juno/201209280900, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:32.727
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/juno/201206270900, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:39.437
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/technology/epp/packages/juno/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:43.775
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/usssdk/updates/release/latest, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:53:46.607
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/usssdk/drops/release/1.2.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:54:22.890
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/junotype%20or%20select%20a%20site, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:54:25.927
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/junotype%20or%20select%20a%20site/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-21 15:54:28.240
+!MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/releases/junotype%20or%20select%20a%20site, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2022-10-21 15:54:33.683
+!MESSAGE No repository found at http://download.eclipse.org/releases/junotype%20or%20select%20a%20site.
+
+!ENTRY org.eclipse.core.resources 4 77 2022-10-21 15:57:27.438
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-10-21 15:57:27.438
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-10-21 15:57:27.438
+!MESSAGE /home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver/motorcontrol-master overlaps the location of another project: 'motorcontrol-master'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-10-21 15:59:21.303
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-10-21 15:59:21.303
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-10-21 15:59:21.303
+!MESSAGE /home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver/motorcontrol-master overlaps the location of another project: 'motorcontrol-master'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-10-21 16:00:37.949
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-10-21 16:00:37.949
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-10-21 16:00:37.949
+!MESSAGE /home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver/motorcontrol-master overlaps the location of another project: 'motorcontrol-master'
+
+!ENTRY org.eclipse.ui 4 0 2022-10-21 16:00:49.307
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.getShell(AwtEnvironment.java:281)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:98)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.widgetDisposed(EmbeddedSwingComposite.java:244)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5895)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1515)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1541)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1324)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4756)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:1559)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:281)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:505)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:3390)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1331)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4756)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:539)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:3307)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4637)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:277)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)

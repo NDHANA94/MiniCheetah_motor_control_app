@@ -9,6 +9,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver/motorcontrol-master"/>
+			<item value="/home/nd94/Desktop/Projects/MiniCheetah-Actuator/Codes/MiniCheetaMotor_driver"/>
 			<item value="/home/nd94/STM32CubeIDE/miniCheetah_motor_driver/miniCheetah_motor_driver/motorcontrol-master"/>
 			<item value="/home/nd94/STM32CubeIDE/miniCheetah_motor_driver/miniCheetah_motor_driver"/>
 			<item value="/home/nd94/Desktop/Projects/MiniCheetah-Actuator/motorControl"/>

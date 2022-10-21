@@ -6,4 +6,4 @@ stm32f4xx_hal_pwr_ex.c:213:10:HAL_PWREx_GetVoltageRange	4	static
 stm32f4xx_hal_pwr_ex.c:290:19:HAL_PWREx_ControlVoltageScaling	32	static
 stm32f4xx_hal_pwr_ex.c:415:19:HAL_PWREx_EnableOverDrive	16	static
 stm32f4xx_hal_pwr_ex.c:462:19:HAL_PWREx_DisableOverDrive	16	static
-stm32f4xx_hal_pwr_ex.c:538:19:HAL_PWREx_EnterUnderDriveSTOPMode	24	static,ignoring_inline_asm
+stm32f4xx_hal_pwr_ex.c:538:19:HAL_PWREx_EnterUnderDriveSTOPMode	24	static

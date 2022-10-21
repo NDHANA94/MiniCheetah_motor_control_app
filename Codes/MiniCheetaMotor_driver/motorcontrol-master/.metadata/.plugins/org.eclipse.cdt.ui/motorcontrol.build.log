@@ -1,9 +1,10 @@
-18:05:58 **** Incremental Build of configuration Debug for project motorcontrol ****
+15:47:15 **** Incremental Build of configuration Debug for project motorcontrol ****
 make -j8 all 
-Cannot run program "make": Unknown reason
+arm-none-eabi-size   motorcontrol.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20464	     20	   2140	  22624	   5860	motorcontrol.elf
+Finished building: default.size.stdout
+ 
 
-Error: Program "make" not found in PATH
-PATH=[C:\ST\STM32CubeIDE_1.5.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.5.0.202011040924\tools\bin;C:\ST\STM32CubeIDE_1.5.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.make.win32_1.5.0.202011040924\tools\bin;C:/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/jre/bin/server;C:/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/jre/bin;C:/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\ben\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ben\AppData\Local\Programs\Python\Python39\;C:\Users\ben\AppData\Local\Microsoft\WindowsApps;C:\Users\ben\AppData\Local\GitHubDesktop\bin;C:\ST\STM32CubeIDE_1.5.0\STM32CubeIDE;C:\ST\STM32CubeIDE_1.5.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.make.win32_1.5.0.202011040924\tools\bin]
-
-18:05:58 Build Failed. 1 errors, 0 warnings. (took 3ms)
+15:47:16 Build Finished. 0 errors, 0 warnings. (took 924ms)
 

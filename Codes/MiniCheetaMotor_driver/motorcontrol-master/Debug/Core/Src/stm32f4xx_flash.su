@@ -10,7 +10,7 @@ stm32f4xx_flash.c:472:14:FLASH_EraseSector	24	static
 stm32f4xx_flash.c:540:14:FLASH_EraseAllSectors	24	static
 stm32f4xx_flash.c:621:14:FLASH_EraseAllBank1Sectors	24	static
 stm32f4xx_flash.c:688:14:FLASH_EraseAllBank2Sectors	24	static
-stm32f4xx_flash.c:745:14:FLASH_ProgramDoubleWord	40	static
+stm32f4xx_flash.c:745:14:FLASH_ProgramDoubleWord	32	static
 stm32f4xx_flash.c:788:14:FLASH_ProgramWord	24	static
 stm32f4xx_flash.c:830:14:FLASH_ProgramHalfWord	24	static
 stm32f4xx_flash.c:872:14:FLASH_ProgramByte	24	static
