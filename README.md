@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-# MiniCheetah_motor_serial_ctrl
+# MiniCheetah_motor_UART-CAN ctrl
 =======
 
