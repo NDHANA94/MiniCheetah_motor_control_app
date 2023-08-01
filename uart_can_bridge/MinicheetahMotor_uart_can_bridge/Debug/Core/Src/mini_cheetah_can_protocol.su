@@ -1,0 +1,6 @@
+mini_cheetah_can_protocol.c:38:6:pack_cmd	40	static
+mini_cheetah_can_protocol.c:82:6:set_motor_cmd	24	static
+mini_cheetah_can_protocol.c:91:6:sendCmd2Motor	24	static
+mini_cheetah_can_protocol.c:116:6:unpack_reply	40	static
+mini_cheetah_can_protocol.c:149:6:enable_motor	48	static
+mini_cheetah_can_protocol.c:171:6:disable_motor	48	static
