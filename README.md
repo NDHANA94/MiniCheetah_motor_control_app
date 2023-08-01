@@ -9,10 +9,9 @@ API for minicheetah BLDC motor driver
 `uart_can_brige` directory contains the firmaware of UART-CAN bridge for STM32F103C8T6 (Blue Pill) and scratch of the circuit diagram for UART-CAN bridge.
 
 ### Install dependencies
-`pip3 install pyqt5`
-`pip3 install pyserial`
-`pip3 install matplotlib`
-``
+- `pip3 install pyqt5`
+- `pip3 install pyserial`
+- `pip3 install matplotlib`
 
 ### Run App:
 ```
