@@ -1,7 +1,0 @@
-math.h:384:14:fmaxf	16	static
-math.h:385:14:fminf	16	static
-math_ops.c:21:7:fmaxf3	24	static
-math_ops.c:26:7:fminf3	24	static
-math_ops.c:32:6:limit_norm	40	static
-math_ops.c:41:5:float_to_uint	40	static
-math_ops.c:49:7:uint_to_float	40	static
