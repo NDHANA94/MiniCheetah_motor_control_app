@@ -1,5 +1,5 @@
 # minicheetah_actuator_APP
-API for minicheetah BLDC motor driver
+App for minicheetah BLDC motor driver
 
 ![ ](images/minicheetah_api_panel.png)
 
